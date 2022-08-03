@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/levietdat/countdown.git.io/countdown/static/css/main.6a3aa322.css",
+    "main.js": "/levietdat/countdown.git.io/countdown/static/js/main.2e613508.js",
+    "index.html": "/levietdat/countdown.git.io/countdown/index.html",
+    "main.6a3aa322.css.map": "/levietdat/countdown.git.io/countdown/static/css/main.6a3aa322.css.map",
+    "main.2e613508.js.map": "/levietdat/countdown.git.io/countdown/static/js/main.2e613508.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a3aa322.css",
+    "static/js/main.2e613508.js"
+  ]
+}

@@ -1,0 +1,59 @@
+.countdown-timer{
+    width: 600px;
+    height: 100px;
+    border: 4px solid #000;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.countdown-timer span{
+    font-weight: 500;
+  min-width: 34px;
+  padding: 0 5px;
+
+}
+.input-date {
+  width: 600px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 24px;
+}
+.input-date input {
+  width: 90%;
+  height: 90%;
+  font-size: 24px;
+}
+.input-date button {
+  height: 100%;
+  font-size: 24px;
+}
+.btn-countdown {
+  cursor: pointer;
+  color: rgb(82, 44, 27);
+  border: none;
+  background-color:#ffce3d 
+}
+.btn-countdown:hover {
+  background-color: #a1cee4;
+  transition: all 0.3s;
+}
+.btn-reset {
+  border: none;
+  color: #fff;
+
+  cursor: pointer;
+  background-color:#80c783
+}
+.btn-reset:hover {
+
+  background-color: rgb(84, 117, 106);
+  transition: all 0.3s;
+}
+#myDate {
+  color:#fff;
+  border: 3px solid #164c73;
+  background-color:#ec4743;
+}

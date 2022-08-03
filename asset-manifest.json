@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/levietdat/countdown.io/countdown/static/css/main.6a3aa322.css",
-    "main.js": "/levietdat/countdown.io/countdown/static/js/main.2e613508.js",
-    "index.html": "/levietdat/countdown.io/countdown/index.html",
-    "main.6a3aa322.css.map": "/levietdat/countdown.io/countdown/static/css/main.6a3aa322.css.map",
-    "main.2e613508.js.map": "/levietdat/countdown.io/countdown/static/js/main.2e613508.js.map"
+    "main.css": "/countdown/static/css/main.6a3aa322.css",
+    "main.js": "/countdown/static/js/main.2e613508.js",
+    "index.html": "/countdown/index.html",
+    "main.6a3aa322.css.map": "/countdown/static/css/main.6a3aa322.css.map",
+    "main.2e613508.js.map": "/countdown/static/js/main.2e613508.js.map"
   },
   "entrypoints": [
     "static/css/main.6a3aa322.css",
